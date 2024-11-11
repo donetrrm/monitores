@@ -1,4 +1,4 @@
-# Primitiva de Sincronización: Monitores
+# Monitores
 
 ## Introducción
 En la programación concurrente, la sincronización es crucial para evitar problemas como las condiciones de carrera, en las que varios procesos o hilos intentan acceder y modificar datos compartidos sin control. Los monitores son una primitiva de sincronización avanzada que proporciona una estructura para controlar el acceso exclusivo a los recursos compartidos entre hilos o procesos. Además de la exclusión mutua, los monitores simplifican la coordinación entre hilos mediante variables de condición.
